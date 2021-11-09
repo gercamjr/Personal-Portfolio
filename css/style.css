@@ -309,7 +309,7 @@ header {
     text-align: center;
 }
 
-.sectino__title--services {
+.section__title--services {
     color: var(--clr-accent);
     position: relative;
 }
